@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NetPos Payment App</string>
+    <string name="your_request_has_been_sent_n_successfully">Your request has been sent \n successfully.</string>
+    <string name="your_request_was_not_sent_n_successfully">Your request was not sent \n successfully.</string>
+    <string name="hint_amount">Enter Amount (=₦=)</string>
+    <string name="make_payment">PROCESS TRANSACTION</string>
+    <string name="transaction_receipt">TRANSACTION RECEIPT</string>
+
 </resources>
